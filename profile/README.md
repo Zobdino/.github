@@ -9,8 +9,8 @@
 **AI-assisted research · Persian scripts · TTS · Audio QA · Verifiable releases**
 
 [Website](https://zobdino.ir/) ·
-[Product repository](https://github.com/AmirMotefaker/KetabCast) ·
-[Releases](https://github.com/AmirMotefaker/KetabCast/releases)
+[Product repository](https://github.com/Zobdino/Zobdino) ·
+[Releases](https://github.com/Zobdino/Zobdino/releases)
 
 </div>
 
@@ -54,11 +54,10 @@ zobdino.ir
 ## Explore Zobdino
 
 - 🌐 **Official website:** https://zobdino.ir/
-- 📦 **Product repository:** https://github.com/AmirMotefaker/KetabCast
-- 🤝 **Contributing:** https://github.com/AmirMotefaker/KetabCast/blob/main/CONTRIBUTING.md
-- 🗺️ **Roadmap:** https://github.com/AmirMotefaker/KetabCast/blob/main/ZOBDINO_MASTER_DOC.md
+- 📦 **Product repository:** https://github.com/Zobdino/Zobdino
+- 🤝 **Contributing:** https://github.com/Zobdino/Zobdino/blob/main/CONTRIBUTING.md
+- 🗺️ **Roadmap:** https://github.com/Zobdino/Zobdino/blob/main/ZOBDINO_MASTER_DOC.md
 
-> Repository namespace migration to `Zobdino/Zobdino` is HTTPS-gated so GitHub Pages and provenance remain safe.
 
 ---
 
